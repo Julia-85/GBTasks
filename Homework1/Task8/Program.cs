@@ -6,7 +6,7 @@ int a = 1;
 
 while ( a < n )
 {
-    if ( a % 2 == 0)
+    if ( a % 2 == 0 )
     Write($"{a} ");
     a = a + 1;
 }
