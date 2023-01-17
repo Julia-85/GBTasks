@@ -16,13 +16,13 @@ WriteLine($"{sum}");
 
 
 
-int DegNum(int A, int B)
+int DegNum(int C, int D)
 { 
     int result=1;
     int i=1;
-    while(B>=i)
+    while(D>=i)
     {
-        result*= A;
+        result*= C;
              i++;
     }
     return result;
