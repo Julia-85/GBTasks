@@ -25,4 +25,3 @@ int AckermannFunction (int numberM, int numberN)
 return AckermannFunction(numberM, numberN);
 }
 
-//WriteLine($"Функция Аккермана = {AckermannFunction(numberM, numberN)}");
