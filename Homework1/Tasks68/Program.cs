@@ -15,8 +15,6 @@ WriteLine($"Функция Аккермана = {result}");
 
 
 
-
-
 int AckermannFunction (int numberM, int numberN)
 {
     if (numberM == 0) return numberN + 1;
